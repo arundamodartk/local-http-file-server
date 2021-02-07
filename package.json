@@ -1,0 +1,10 @@
+{
+  "name": "local-http-file-server",
+  "version": "1.0.0",
+  "description": "To run a local server to access files as HTTP requests without CORS issues",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Arun Damodaran"
+}
